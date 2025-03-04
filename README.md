@@ -6,11 +6,11 @@ This is a simple age calculator server program built with Express.js (compatible
 * Prints the calculated age in another page
 
 ## How to Run
-1. Change your working directory to the path of the ```index.js``` file.
+1. Change your working directory to the path of the project.
 2. Run the following commands:
 ```
 npm init -y
-npm install express
+npm install
 node index.js
 ```
 3. Open your browser and navigate to:
